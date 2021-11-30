@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Udai!
 
-I'm a current third-year student at Imperial College London, studying Electrical and Electronics Engineering.
+I'm a current final student at Imperial College London, studying Electrical and Electronics Engineering.
 
-I’m interested in working on software and electronics that fall in the intersection between cool and useful, and love to contribute to projects.
+I’m interested in working on software that falls in the intersection between cool and useful, and love to contribute to projects.
 
-I love road bikes, always superfluously tinkering with all the components on my bike and racing around Richmond Park.
+I love road bikes, always superfluously tinkering with all the components on my bike and cycling around Richmond Park.
 
 
 
