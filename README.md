@@ -1,14 +1,9 @@
-# 👋 Hi, I’m Udai!
+# Hi, I'm Udai
 
-
-
-I'm a current final student at Imperial College London, studying Electrical and Electronics Engineering.
-
-I’m interested in working on software that falls in the intersection between cool and useful, and love to contribute to projects.
-
-I love road bikes : https://www.youtube.com/watch?v=KmuP8gsgWb8.
-
-
+- Software Engineer @ Goldman Sachs
+- MEng, Electrical & Electronics Engineering @ Imperial College London
+- Cycling Enthusiast (https://www.youtube.com/watch?v=KmuP8gsgWb8)
+- Training for the Athens Marathon (12th Nov 2023)
 
 <!---
 
