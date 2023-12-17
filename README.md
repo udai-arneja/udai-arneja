@@ -3,7 +3,7 @@
 - Software Engineer @ Goldman Sachs
 - MEng, Electrical & Electronics Engineering @ Imperial College London
 - Cycling Enthusiast (https://www.youtube.com/watch?v=KmuP8gsgWb8)
-- Training for the Athens Marathon (12th Nov 2023)
+- Recently completed The Athens Marathon 2023, round 2 coming up... 
 
 <!---
 
