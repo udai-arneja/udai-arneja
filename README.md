@@ -3,7 +3,7 @@
 - Software Engineer @ Goldman Sachs
 - MEng, Electrical & Electronics Engineering @ Imperial College London
 - Cycling Enthusiast (https://www.youtube.com/watch?v=KmuP8gsgWb8)
-- Recently completed The Athens Marathon 2023: 04:02:51, round 2 coming up... 
+- Recently completed The Athens Marathon 2023: 04:02:51, round 2 in Ireland - 1st June.
 
 <!---
 
