@@ -5,6 +5,8 @@
 - Cycling Enthusiast (https://www.youtube.com/watch?v=KmuP8gsgWb8)
 - Recently completed The Athens Marathon 2023: 04:02:51, round 2 in Ireland - 1st June.
 
+- Working on a photography related AI project...
+
 <!---
 
 I’m currently learning 
