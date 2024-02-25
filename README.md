@@ -9,6 +9,7 @@
 
 
 - Working on a photography related AI project...
+- Studying some philosphy and learning some Hindi
 
 <!---
 
