@@ -3,12 +3,12 @@
 - Software Engineer ([GS DAP, Blockchain](https://developer.gs.com/discover/gs-dap)) @ Goldman Sachs
 - MEng, Electrical & Electronics Engineering @ Imperial College London
 - Cycling Enthusiast (https://www.youtube.com/watch?v=KmuP8gsgWb8)
-- Recently completed The Athens Marathon 2023: 04:02:51
+- Completed The Athens Marathon 2023: 04:02:51
 
 <br>
 
 
-- Working on a photography related AI project...
+- Working on a post-partum app for mothers!
 - Studying some philosphy and learning some Hindi
 
 <!---
