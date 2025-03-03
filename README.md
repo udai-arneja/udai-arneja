@@ -8,7 +8,7 @@
 <br>
 
 
-- Working on a post-partum app for mothers!
+- Building for football teams!
 - Studying some philosphy and learning some Hindi
 
 <!---
