@@ -8,9 +8,7 @@
 <br>
 
 
-- Building for football teams!
-- Studying some philosphy and learning some Hindi
-
+- Building
 <!---
 
 I’m currently learning 
