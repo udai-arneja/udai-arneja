@@ -1,9 +1,9 @@
 # Hi, I'm Udai
 
-- Software Engineer ([GS DAP, Blockchain](https://developer.gs.com/discover/gs-dap)) @ Goldman Sachs
+- Software Engineer (FX Systematic Market Making) @ Goldman Sachs
 - MEng, Electrical & Electronics Engineering @ Imperial College London
 - Cycling Enthusiast (https://www.youtube.com/watch?v=KmuP8gsgWb8)
-- Completed The Athens Marathon 2023: 04:02:51
+- Athens Marathon 2023: 04:02:51, 2025: 05:03:XX, 2026: ...
 
 <br>
 
